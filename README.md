@@ -1,2 +1,2 @@
 # reading-notes
-Code Fellows journal 102
+Code Fellows Journal 102
