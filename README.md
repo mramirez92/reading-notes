@@ -29,7 +29,7 @@ Three things to remind  myself on how to stay in the growth mindset:
    
 #### Class Notes
    
-[:book:Class 2](https://github.com/mramirez92/reading-notes/class2notes)
+[:book:Class 2](https://mramirez92.github.io/reading-notes/)
   
 [Github link](https://github.com/mramirez92)	
   :octocat:
