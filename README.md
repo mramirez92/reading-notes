@@ -8,6 +8,8 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
    &nbsp;
    
 ### Table of contents
+
+📓[Class 1]()
    
 📓[Class 2](https://mramirez92.github.io/reading-notes/class2notes)
 
