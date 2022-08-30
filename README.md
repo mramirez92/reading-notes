@@ -2,7 +2,6 @@
 ###### <sup> Code Fellows Journal</sup>
 # Hello, World!
 
-
                                                       
 Yellow, my name is Monica Ramirez. A couple of my farvorite things are working out :weight_lifting_woman: and **_sleeping_**.
 
