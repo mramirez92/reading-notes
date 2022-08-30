@@ -26,6 +26,8 @@ Three things to remind  myself on how to stay in the growth mindset:
 - Trust the process. 
 
    &nbsp;
+   
+#### [:book:Class 2 reading notes](https://github.com/mramirez92/reading-notes/class2notes)
   
 [Github link](https://github.com/mramirez92)	
   :octocat:
