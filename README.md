@@ -3,7 +3,7 @@
 # Hello, World!
 
                                                       
-Yellow, my name is Monica Ramirez. A couple of my farvorite things are working out :weight_lifting_woman: and **_sleeping_**. 
+Yellow, my name is Monica Ramirez. A couple of my farvorite things are working out :weight_lifting_woman: and **_sleeping_**.  I really enjoy working python, but am here to learn as much as I can in a structured enviroment. 
 
    &nbsp;
    
