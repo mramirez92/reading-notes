@@ -1,5 +1,5 @@
-###### reading-notes
-###### <sup> Code Fellows Journal</sup>
+###reading-notes
+### <sup> Code Fellows Journal</sup>
 # Hello, World!
 
                                                       
@@ -7,7 +7,7 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
 
    &nbsp;
    
-#### Table of contents
+### Table of contents
    
 📓[Class 2](https://mramirez92.github.io/reading-notes/class2notes)
 
