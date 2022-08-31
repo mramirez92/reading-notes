@@ -9,8 +9,9 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
    
 ### Table of contents
 
-📓[Class 1](class1notes.md)
 
+📓[Class 1](class1notes.md)
+   
 📓[Class 2](class2notes.md)
 
 📓[Class 3](class3notes.md)
