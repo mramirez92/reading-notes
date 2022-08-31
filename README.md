@@ -18,6 +18,8 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
 📓[Class 2](https://mramirez92.github.io/reading-notes/class2notes)
 
 📓[Class 3](https://mramirez92.github.io/reading-notes/class3notes)
+
+📓[Class 4](https://mramirez92.github.io/reading-notes/class4notes)
   
 [Github link](https://github.com/mramirez92)	
   :octocat:
