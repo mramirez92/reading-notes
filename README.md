@@ -9,25 +9,18 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
    
 ### Table of contents
 
-<<<<<<< HEAD
-:notebook:[Class 1](https://mramirez92.github.io/reading-notes/class2notes)
-=======
-📓[Class 1]()
-   
-📓[Class 2](https://mramirez92.github.io/reading-notes/class2notes)
+📓[Class 1](class1notes.md)
 
-📓[Class 3](https://mramirez92.github.io/reading-notes/class3notes)
+📓[Class 2](class2notes.md)
 
-📓[Class 4](https://mramirez92.github.io/reading-notes/class4notes)
+📓[Class 3](class3notes.md)
 
-📓[Class 5](https://mramirez92.github.io/reading-notes/class5notes)
+📓[Class 4](class4notes.md)
 
-📓[Class 6](google.com)
+📓[Class 5](class5notes.md)
+
+📓[Class 6](class6notes.md)
 
   
 [Github link](https://github.com/mramirez92)	
   :octocat:
-
-
-
-
