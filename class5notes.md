@@ -19,9 +19,9 @@ h1 {
 When a browser reads a style sheet, it will format the HTML document according to the information in the style sheet.
 There are three ways to add a style sheet:
 
-- external css
-- internal css
-- inline css
+- external css= whole site
+- internal css= individual page
+- inline css= individual element
 
 External styles are defined within the <link> element, inside the <head> section of an HTML page. An external style sheet can be written in any text editor, and must be saved with a .css extension
 ![external css](https://codebridgeplus.com/wp-content/uploads/download-5.png)
@@ -48,4 +48,10 @@ color: *color|initial|inherit*
 - inherit: Inherits this property from its parent element.
 
 example: body {color: #92a8d1;}
+
+Cascading order starts with:
+- Inline: priority
+- Internal: next priority
+- External: next priority
+Browser default
 

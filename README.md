@@ -22,6 +22,8 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
 
 📓[Class 5](https://mramirez92.github.io/reading-notes/class5notes)
 
+📓[Class 6](google.com)
+
   
 [Github link](https://github.com/mramirez92)	
   :octocat:
