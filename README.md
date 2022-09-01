@@ -1,17 +1,17 @@
-###reading-notes
-### <sup> Code Fellows Journal</sup>
-# Hello, World!
+### reading-notes
 
-                                                      
-Yellow, my name is Monica Ramirez. A couple of my farvorite things are working out :weight_lifting_woman: and **_sleeping_**.  I really enjoy working python, but am here to learn as much as I can in a structured enviroment. 
+### < sup> Code Fellows Journal</sup>
+
+# Hello, World
+
+Yellow, my name is Monica Ramirez. A couple of my farvorite things are working out :weight_lifting_woman: and **_sleeping_**.  I really enjoy working python, but am here to learn as much as I can in a structured enviroment.
 
    &nbsp;
-   
-### Table of contents
 
+## Table of contents
 
 📓[Class 1](class1notes.md)
-   
+
 📓[Class 2](class2notes.md)
 
 📓[Class 3](class3notes.md)
@@ -24,6 +24,8 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
 
 📓[Class 7](class7notes.md)
 
-  
-[Github link](https://github.com/mramirez92)	
+📓[Class 8](class8notes.md)
+
+
+[Github link](https://github.com/mramirez92)
   :octocat:
