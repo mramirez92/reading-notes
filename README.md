@@ -35,7 +35,8 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
 <details>
   <summary>Class 201 Notes</summary>
   <p>
-📓[Class 1](201-1-notes.md)
+  
+  📓[Class 1]()
   </p>
 </details>
 
