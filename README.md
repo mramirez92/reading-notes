@@ -32,5 +32,12 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
   </p>
 </details>
 
+<details>
+  <summary>Class 201 Notes</summary>
+  <p>
+📓[Class 1](201-1-notes.md)
+  </p>
+</details>
+
 [Github link](https://github.com/mramirez92)
   :octocat:
