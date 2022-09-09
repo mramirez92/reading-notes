@@ -12,6 +12,13 @@ Attached are my Code Fellow reading notes.
    
 ## Table of contents
 
+| Class 102 notes  | Class 201 notes|
+| ------------- | ------------- |
+| [1. Learning Markdown](class1notes.md) | Content Cell  |
+| [2. The Coder's Computer](class2notes.md) | Content Cell  |
+| [3. Revisions and the Cloud](class3notes.md) |
+
+
  <details><summary>Code 102 Reading Notes</summary>
 <p>
      
@@ -34,10 +41,10 @@ Attached are my Code Fellow reading notes.
 </details>
 
 <details><summary>Code 201 Reading Notes</summary>
-<p>
+  <p>
   
   📓[Class 1]()
-</p>
+  </p>
 </details>
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
