@@ -62,3 +62,5 @@ You can put elements inside other elements. example:
 
 Adding images: 
 <img src="images/firefox-icon.png" alt="My test image">
+
+📔[Back to Main Page](README.md)

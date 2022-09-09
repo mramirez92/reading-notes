@@ -19,3 +19,5 @@ Fetching only pulls new data from repository, but doesn't apply it to your local
 
 Push your cahnges upstream for sharing by using this command:
 - git push *[remote name] *[branch-name]: Pushes committed changes from your local “master” branch upstream to the “origin” server.
+
+📔[Back to Main Page](README.md)

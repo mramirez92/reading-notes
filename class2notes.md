@@ -30,5 +30,4 @@ Everything is a file! Files can have extensions or not. Linux is case sensitive 
 - file: obtain information about what type of file a file or directory is.
 - ls -a: list the contents of a directory, including hidden files.
 
-
-
+📔[Back to Main Page](README.md)

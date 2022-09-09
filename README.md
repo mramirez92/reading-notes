@@ -23,13 +23,6 @@ Attached are my Code Fellow reading notes.
 | [7. Programming with JavaScript](class7notes.md) |
 | [8. Operators and loops](class8notes.md) |
 
-<details><summary>Code 201 Reading Notes</summary>
-  <p>
-  
-  📓[Class 1](class-01.md)
-  </p>
-</details>
-
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
 
 [Github link](https://github.com/mramirez92)
