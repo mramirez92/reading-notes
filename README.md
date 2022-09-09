@@ -13,37 +13,20 @@ Attached are my Code Fellow reading notes.
 ## Table of contents
 
 | Class 102 notes  | Class 201 notes|
-| ------------- | ------------- |
-| [1. Learning Markdown](class1notes.md) | Content Cell  |
-| [2. The Coder's Computer](class2notes.md) | Content Cell  |
+| -------------- | -------------- |
+| [1. Learning Markdown](class1notes.md) | [1. HTMl, Javascript](class-01.md) |
+| [2. The Coder's Computer](class2notes.md) |  |
 | [3. Revisions and the Cloud](class3notes.md) |
-
-
- <details><summary>Code 102 Reading Notes</summary>
-<p>
-     
-   📓[1. Learning Markdown](class1notes.md)
-
-   📓[2. The Coder's Computer](class2notes.md)
-
-   📓[3. Revisions and the Cloud](class3notes.md)
-
-   📓[4. Structure web pages with HTML](class4notes.md)
-
-   📓[5. Design web pages with CSS](class5notes.md)
-
-   📓[6. Dynamic web pages with JavasScript](class6notes.md)
-
-   📓[7. Programming with JavaScript](class7notes.md)
-
-   📓[8. Operators and loops](class8notes.md)
-</p>
-</details>
+| [4. Structure web pages with HTML](class4notes.md) |   |
+| [5. Design web pages with CSS](class5notes.md) |  |
+| [6. Dynamic web pages with JavasScript](class6notes.md) |
+| [7. Programming with JavaScript](class7notes.md) |
+| [8. Operators and loops](class8notes.md) |
 
 <details><summary>Code 201 Reading Notes</summary>
   <p>
   
-  📓[Class 1]()
+  📓[Class 1](class-01.md)
   </p>
 </details>
 
