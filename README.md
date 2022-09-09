@@ -1,5 +1,5 @@
 # 201 Reading Notes
-### < sup> Code Fellows Journal</sup>
+### <sup> Code Fellows Journal</sup>
 
 ## Hello, World
 
@@ -12,9 +12,8 @@ Attached are my Code Fellow reading notes.
    
 ## Table of contents
 
- <details>
-  <summary>Code 102 Reading Notes</summary>
-  <p>
+ <details><summary>Code 102 Reading Notes</summary>
+<p>
      
    📓[1. Learning Markdown](class1notes.md)
 
@@ -31,15 +30,14 @@ Attached are my Code Fellow reading notes.
    📓[7. Programming with JavaScript](class7notes.md)
 
    📓[8. Operators and loops](class8notes.md)
-  </p>
+</p>
 </details>
 
-<details>
-  <summary>Code 201 Reading Notes</summary>
-  <p>
+<details><summary>Code 201 Reading Notes</summary>
+<p>
   
   📓[Class 1]()
-  </p>
+</p>
 </details>
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
