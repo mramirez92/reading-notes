@@ -149,8 +149,8 @@ Anatomy of HTML document
 <meta> metadata not represented in meta-related elements <link>, <style>, <title>, <base>
 <title></title> page title, what appears in browser tab. page descriptor
 <body></body> ALL contents displayed on page
-
 ```
+
 ### Metadata in the < head></ head>
 
 Head element has all the metadata info like css page  link, author info, important keywords.
