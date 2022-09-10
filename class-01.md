@@ -37,12 +37,10 @@ variables= containers that store values.
 let variableName;
 ```
 
-## More info
-
 comments, not ran as codewritten using /* comment */
 
 <details>
-    <summary>Operators</summary>
+    <summary>&#128209;Operators</summary>
     <p>
 
     + addition 
@@ -57,7 +55,7 @@ comments, not ran as codewritten using /* comment */
     </details>
 
 <details>
-<summary>Getting Started Questions</summary>
+<summary>&#128209;Getting Started Questions</summary>
 <p>This topic is imporant because JavaScript is a dynamic language. It has many different functions from front end to backend, it's versatile. 
 
 1. Web address is translated into an ip address using DNS. Three way handshake is then performed (TCP Handshake); establishing communication between two parties over using HTTPS protocol. After synchronizations and acknowledgements are sent back and forth, a connection is established.
