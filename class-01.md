@@ -37,11 +37,10 @@ variables= containers that store values.
 let variableName;
 ```
 
-comments, not ran as codewritten using /* comment */
+comments, not ran (ignored) written using /* comment */
 
 <details>
     <summary>&#128209;Operators</summary>
-    <p>
 
     + addition 
     - subtraction
@@ -51,12 +50,13 @@ comments, not ran as codewritten using /* comment */
     == equal to 
     === strict equality, type has to match 
     ! , !== not; doesnt equal
-</p>
-    </details>
+
+</details>
 
 <details>
 <summary>&#128209;Getting Started Questions</summary>
-<p>This topic is imporant because JavaScript is a dynamic language. It has many different functions from front end to backend, it's versatile. 
+
+This topic is imporant because JavaScript is a dynamic language. It has many different functions from front end to backend, it's versatile. 
 
 1. Web address is translated into an ip address using DNS. Three way handshake is then performed (TCP Handshake); establishing communication between two parties over using HTTPS protocol. After synchronizations and acknowledgements are sent back and forth, a connection is established.
 HTTP GET request is sent from user= get HTML file. packet with 14kb of data is received by user. More packets are sent, after each is acknowledged by user.
@@ -67,7 +67,6 @@ render->interactivity->done
 4. Strings are created by encapsulated characters in between quotation marks, single or double. Numbers are integers with or without decimals, they dont have quoatation marks.
 5. Variable is an object that stores values.
 
-</p>
 </details>
 
 
