@@ -69,9 +69,110 @@ render->interactivity->done
 
 </details>
 
+## HTML
+
+HyperText Markup Language structures web pages. 
+
+- elements (wrap; markup) part of DOM.
+- tags begin/end element in source code. not case sensitive.
 
 
+```
+</p>I love cats</p>
+```
+- < p> </ p> : opening/closing tags
+- I love cats : content
+- whole thing is an element
+
+Elements can be nested within other elements
+```
+<p>My cat is <strong>very</strong> grumpy.</p>
+```
+
+Block-level ekements:
+
+- visible block on page
+- structural elements: headings, paragraphs, lists, navigation menus or footers
+-causes new lines to appear
+
+Inline elements:
+
+- contained within block-level elements
+- used with text ex :< a></ a> for links, < strong></ strong> for emphasis
+
+Empty elements:
+
+- no closing tag, just opening tag. 
+- insert/embed something in document. ex:
+
+```
+<img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png">
+```
+
+### Attributes
+
+```
+<p class="notes>My class notes</p>
+
+class="notes" is attribute
+```
+
+Attributes wont appear in content, just have extra info on content. Set witihin first tag. 
+
+- space between attribute and element
+- attribute name, followed with equal sign =
+- attribute value wrapped in quoatation marks. 
+
+| Attribute | Defenition | Example |
+| ----- | ------| ------ |
+|href| web address specification| href="https://www.mozilla.org/ |
+|title| descriptor, appears when cursor hovers over elememt | title= "Cat pic"|
+|target| specifies browsing content used to display text| target= "_blank"|
+
+Anatomy of HTML document
+
+```
+<!DOCTYPE html> 
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+  </body>
+</html>
+
+<!DOCTYPE html> include this always
+<html></html> root element, wraps all content on page
+<head></head> isnt content, viewers wont see it. page description, css to style content etc. contains metadata
+<meta> metadata not represented in meta-related elements <link>, <style>, <title>, <base>
+<title></title> page title, what appears in browser tab. page descriptor
+<body></body> ALL contents displayed on page
+
+```
+### Metadata in the < head></ head>
+
+Head element has all the metadata info like css page  link, author info, important keywords.
+
+- title tag: page title
+- meta tag:  what languages your page can handle?
+    - name(type of meta element) and content (actual meta content)
+
+```
+<meta name="author" content="Chris Mills">
+```
 
 
+<details>
+    <summary>&#128209;Intro to HTML questions</summary>
 
+1. Attribute is extra info on an element. 
+2. An element is made up of content and tags. The content is what is shown. Tags are what define what that content is. 
+3.  Article is a way of adding extra info about an element. A section is an actual section on page
+4. !DOCTYPE html, html, head, title, body, sections are typical elements used in website. 
+5. Including specific descriptions into the meta tag can help search engines make it more visible on result pages
+6. Meta used to add info about the page, its creators, things that your user doesnt need to see
+
+</details>
 
