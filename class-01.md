@@ -8,14 +8,19 @@ JS is a dynamic language.Tools have been develop to add max function with minimu
 
 <details>
     <summary> Browser application progamming interfaces (APIs)</summary>
-    <p>- built into web browsers; dynamic HTML & CSS styles
+
+<p>
+
+- built into web browsers; dynamic HTML & CSS styles
     - generating 3D graphics/audio
     - manipulating stream from user webcam
 
 - Third party APIs allow devs to incorporate functionality in sites from other content providers
 
-- Third-party frameworks/libraries you can apply to HTML</p>
-    </details>
+- Third-party frameworks/libraries you can apply to HTML
+</p>
+
+</details>
 
 ## Variables
 
@@ -59,15 +64,18 @@ comments, not ran (ignored) written using /*comment*/
 <details>
 <summary>&#128209;Getting Started Questions</summary>
 
-This topic is imporant because JavaScript is a dynamic language. It has many different functions from front end to backend, it's versatile.
+This topic is imporant because JavaScript is a dynamic language. It has many different functions from frontend to backend, it's versatile.
 
 1. Web address is translated into an ip address using DNS. Three way handshake is then performed (TCP Handshake); establishing communication between two parties over using HTTPS protocol. After synchronizations and acknowledgements are sent back and forth, a connection is established.
 HTTP GET request is sent from user= get HTML file. packet with 14kb of data is received by user. More packets are sent, after each is acknowledged by user.
 
-2. After first packet is receivedm parsing happens(building of page). HTML, CSS, and JS have to be parsed before anyting is on screen. HTML-->skeleton(DOM tree) CSS-->makeup(CSSOM tree) JavaScript-->muscle, dynamics(abstract syntax tree)
+2. After first packet is received parsing happens(building of page). HTML, CSS, and JS have to be parsed before anyting is on screen. HTML-->skeleton(DOM tree) CSS-->makeup(CSSOM tree) JavaScript-->muscle, dynamics(abstract syntax tree)
 render->interactivity->done
-3. Google search is a good place to search for images, using license filter to choose Creative commons licencses.
-4. Strings are created by encapsulated characters in between quotation marks, single or double. Numbers are integers with or without decimals, they dont have quoatation marks.
+
+3. Google search is a good place to search for images, using license filter to choose creative commons licencses.
+
+4. Strings are created by encapsulated characters in between quotation marks, single or double. Numbers are integers with or without decimals, they dont have quotation marks.
+
 5. Variable is an object that stores values.
 
 </details>
@@ -83,7 +91,7 @@ HyperText Markup Language structures web pages.
 </p>I love cats</p>
 ```
 
-- < p> </ p> : opening/closing tags
+- \<p>\</p> : opening/closing tags
 - I love cats : content
 - whole thing is an element
 
@@ -93,16 +101,16 @@ Elements can be nested within other elements
 <p>My cat is <strong>very</strong> grumpy.</p>
 ```
 
-Block-level ekements:
+Block-level elements:
 
 - visible block on page
 - structural elements: headings, paragraphs, lists, navigation menus or footers
--causes new lines to appear
+- causes new lines to appear
 
 Inline elements:
 
 - contained within block-level elements
-- used with text ex :< a></ a> for links, < strong></ strong> for emphasis
+- used with text ex :\<a>\</a> for links, \<strong>\</strong> for emphasis
 
 Empty elements:
 
@@ -146,14 +154,14 @@ Anatomy of HTML document
     <p>This is my page</p>
   </body>
 </html>
-
-<!DOCTYPE html> include this always
-<html></html> root element, wraps all content on page
-<head></head> isnt content, viewers wont see it. page description, css to style content etc. contains metadata
-<meta> metadata not represented in meta-related elements <link>, <style>, <title>, <base>
-<title></title> page title, what appears in browser tab. page descriptor
-<body></body> ALL contents displayed on page
 ```
+
+- \<!DOCTYPE html> include this always
+- \<html>\</html> root element, wraps all content on page
+- \<head>\</head> isnt content, viewers wont see it. page description, css to style content etc. contains metadata
+- \<meta> metadata not represented in meta-related elements \<link>,\<style>,\<title>,\<base>
+- \<title>\</title> page title, what appears in browser tab. page descriptor
+- \<body>\</body> ALL contents displayed on page
 
 ## Metadata in the \<head>\</head>
 
@@ -191,7 +199,8 @@ Semantics: meaning of code, its function etc.
 In HTML code should represent data that will be populated, not based on default presentation styling. Presentation is done with CSS.
 
 "What element best describes/represents data?"
-List of some semantic elements:
+<details> 
+    <summary>List of some semantic elements</summary>
 
 - article
 -aside
@@ -207,6 +216,9 @@ List of some semantic elements:
 - section
 - summary
 - time
+
+</details>
+
 
 1. h1 header has the benefits of semantics, while span is more of a presentation of a header.
 2. Benefits of using semantic elements: content is considered as important keywords to influence page's search ranking, important for screen readers, easier to find meaningful code etc.
