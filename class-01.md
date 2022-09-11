@@ -14,8 +14,7 @@ JS is a dynamic language.Tools have been develop to add max function with minimu
 <li>generating 3D graphics/audio</li>
 <li>manipulating stream from user webcam</li>
 
-Third party APIs allow devs to incorporate functionality in sites from other content providers
-<li>Third-party frameworks/libraries you can apply to HTML</li>
+Third party APIs allow devs to incorporate functionality in sites from other content providers. Third-party frameworks/libraries you can apply to HTML
 </p>
 </details>
 
