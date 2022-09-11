@@ -56,8 +56,8 @@ comments, not ran (ignored) written using /*comment*/
 
 </details>
 
-<details>
-<summary>&#128209;Getting Started Questions</summary>
+:
+📋Getting Started Questions
 
 This topic is imporant because JavaScript is a dynamic language. It has many different functions from frontend to backend, it's versatile.
 
@@ -72,8 +72,6 @@ render->interactivity->done
 4. Strings are created by encapsulated characters in between quotation marks, single or double. Numbers are integers with or without decimals, they dont have quotation marks.
 
 5. Variable is an object that stores values.
-
-</details>
 
 ## HTML
 
@@ -170,8 +168,7 @@ Head element has all the metadata info like css page  link, author info, importa
 <meta name="author" content="Chris Mills">
 ```
 
-<details>
-    <summary>&#128209;Intro to HTML questions</summary>
+📋Intro to HTML:
 
 1. Attribute is extra info on an element.
 2. An element is made up of content and tags. The content is what is shown. Tags are what define what that content is.
@@ -180,9 +177,9 @@ Head element has all the metadata info like css page  link, author info, importa
 5. Including specific descriptions into the meta tag can help search engines make it more visible on result pages
 6. Meta used to add info about the page, its creators, things that your user doesnt need to see
 
-</details>
-
 ## Website Design
+
+📋How to design a Website:
 
 1. First step is project ideation, "whats the goal? what do I want to accomplish? steps to reach goal"
 2. The most imporant question to answer when designing a website is "what do I want to accomplish?"
@@ -214,7 +211,7 @@ In HTML code should represent data that will be populated, not based on default 
 
 </details>
 
-
+📋Semantics:
 1. h1 header has the benefits of semantics, while span is more of a presentation of a header.
 2. Benefits of using semantic elements: content is considered as important keywords to influence page's search ranking, important for screen readers, easier to find meaningful code etc.
 
@@ -272,12 +269,12 @@ External JavaScript, link JS file:
 - defer:  load in order that they appear on page. Page will only run until all content loaded, scripts that depend on DOM
 - async: script dowloaded without code blocking while script is being fetched. "load asap." contenet executed as soon as download complete.
 
+📋What is JavaScript?
 1. JavaScript allow for pages to be dynamic like the ablity to fill out webforms or displaying your webcam image onto someone else's screen.  
 2. You add JavaScript to HTML with < script>
 
 ## Things I want to know more about
 
-More on how to build dynamic website features, especially ones where user input is required. 
-
+More on how to build dynamic website features, especially ones where user input is required.
 
 📔[Back to Main Page](README.md)
