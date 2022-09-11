@@ -14,7 +14,7 @@ Attached are my Code Fellow reading notes.
 
 | Class 102 notes  | Class 201 notes|
 | -------------- | -------------- |
-| [1. Learning Markdown](class1notes.md) | [1. HTMl, Javascript](class-01.md) |
+| [1. Learning Markdown](class1notes.md) | [1. HTML, Javascript](class-01.md) |
 | [2. The Coder's Computer](class2notes.md) |  |
 | [3. Revisions and the Cloud](class3notes.md) |
 | [4. Structure web pages with HTML](class4notes.md) |   |
