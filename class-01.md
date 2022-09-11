@@ -7,15 +7,14 @@ JS is a dynamic language.Tools have been develop to add max function with minimu
 ![webpagecake](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript/cake.png)
 
 <details>
-    <summary> Browser application progamming interfaces (APIs)</summary>
-<p>
+<summary> Browser application progamming interfaces (APIs)</summary>
 
-<li>built into web browsers; dynamic HTML & CSS styles
-<li>generating 3D graphics/audio</li>
-<li>manipulating stream from user webcam</li>
+- built into web browsers; dynamic HTML & CSS styles
+- generating 3D graphics/audio
+- manipulating stream from user webcam
 
 Third party APIs allow devs to incorporate functionality in sites from other content providers. Third-party frameworks/libraries you can apply to HTML
-</p>
+
 </details>
 
 ## Variables
