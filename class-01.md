@@ -1,6 +1,6 @@
 # Class 01
 
-### JavaScript
+## JavaScript
 
 JS is a dynamic language.Tools have been develop to add max function with minimum effort.
 
@@ -155,7 +155,7 @@ Anatomy of HTML document
 <body></body> ALL contents displayed on page
 ```
 
-### Metadata in the \<head>\</head>
+## Metadata in the \<head>\</head>
 
 Head element has all the metadata info like css page  link, author info, important keywords.
 
@@ -179,12 +179,12 @@ Head element has all the metadata info like css page  link, author info, importa
 
 </details>
 
-### Website Design
+## Website Design
 
 1. First step is project ideation, "whats the goal? what do I want to accomplish? steps to reach goal"
 2. The most imporant question to answer when designing a website is "what do I want to accomplish?"
 
-### Semantics
+## Semantics
 
 Semantics: meaning of code, its function etc.
 
@@ -211,7 +211,7 @@ List of some semantic elements:
 1. h1 header has the benefits of semantics, while span is more of a presentation of a header.
 2. Benefits of using semantic elements: content is considered as important keywords to influence page's search ranking, important for screen readers, easier to find meaningful code etc.
 
-### What is JavaScript?
+## What is JavaScript?
 
 - HTML: Markup language, STRUCTURE, meaning to web content.
 - CSS: styles HTML content
@@ -260,7 +260,7 @@ External JavaScript, link JS file:
 </head>
 ```
 
-#### Loading scripts
+### Loading scripts
 
 - defer:  load in order that they appear on page. Page will only run until all content loaded, scripts that depend on DOM
 - async: script dowloaded without code blocking while script is being fetched. "load asap." contenet executed as soon as download complete.
@@ -268,3 +268,9 @@ External JavaScript, link JS file:
 1. JavaScript allow for pages to be dynamic like the ablity to fill out webforms or displaying your webcam image onto someone else's screen.  
 2. You add JavaScript to HTML with < script>
 
+## Things I want to know more about
+
+More on how to build dynamic website features, especially ones where user input is required. 
+
+
+📔[Back to Main Page](README.md)
