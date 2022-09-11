@@ -8,6 +8,7 @@ JS is a dynamic language.Tools have been develop to add max function with minimu
 
 <details>
     <summary> Browser application progamming interfaces (APIs)</summary>
+<p>
 
 <li>built into web browsers; dynamic HTML & CSS styles
 <li>generating 3D graphics/audio</li>
@@ -15,7 +16,7 @@ JS is a dynamic language.Tools have been develop to add max function with minimu
 
 Third party APIs allow devs to incorporate functionality in sites from other content providers
 <li>Third-party frameworks/libraries you can apply to HTML</li>
-
+</p>
 </details>
 
 ## Variables
