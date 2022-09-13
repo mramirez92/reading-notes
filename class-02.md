@@ -250,7 +250,7 @@ userAnswer(number);
     - == equal/same
     - \> greater than
 
-4. && means "and" both expression true; || means "or" only one of those expression has to be true
+4. && means "and" both expression true; \|| means "or" only one of those expression has to be true
 
 ## Things I want to know more about
 
