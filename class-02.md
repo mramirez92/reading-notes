@@ -2,7 +2,7 @@
 
 ## "Why is this material important?"
 
-HTML, CSS, and JavaScript are all languages used to create a website. Most importantly its important to become familiar with JavaScript as it is a versatile language.
+HTML, CSS, and JavaScript are all languages used to create a website. It is important to become familiar with JavaScript as it is a versatile language.
 
 ## Intro to HTML cont
 
