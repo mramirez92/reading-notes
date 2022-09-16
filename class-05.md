@@ -1,6 +1,7 @@
 # Class 05 Notes
 
 ## "Why is this important"
+
 This is important for aesthetics and readability of a page.
 
 ## HTML Media <sup>[^1]</sup>
@@ -9,7 +10,7 @@ This is important for aesthetics and readability of a page.
 
 - uses **src** source attribute
 - correct path required for source
-- best practice to have images in file/ same server as HTML code. 
+- best practice to have images in file/ same server as HTML code.
 
 **<alt>** attribute is a text description for image. helps deliver a usable experience when images cant be seen.
 
@@ -37,18 +38,15 @@ This is important for aesthetics and readability of a page.
 </figure>
 ```
 
-
-
 ### Using Images in HTML<sup>[^2]</sup>
 
 |Type| File Format| MIME type| file extensions| Summary|
 |----|--------|----|----|--------|
 |AVIF|AV1 Image File Format|image/avif|.avif| high perfomance, better compression than png and jpeg|
 |GIF|Graphics Interchange Format|image/gif|.gif| simple images, animations|
-|JPEG|Joint Photographic Expert Group image|	image/jpeg|	.jpg, .jpeg, .jfif, .pjpeg, .pjp| quality loss w/ compression |
+|JPEG|Joint Photographic Expert Group image| image/jpeg| .jpg, .jpeg, .jfif, .pjpeg, .pjp| quality loss w/ compression |
 |PNG|Portable Network Graphics|image/png|.png|PNG is preferred over JPEG for more precise reproduction|
 |SVG|Scalable Vector Graphics|image/svg+xml|.svg| Vector image format; ideal for user interface elements, icons, diagrams, etc., that must be drawn accurately at different sizes|
-
 
 1. If image can't load or connection is lagging alt description will be displayed in place of image.
 
@@ -79,9 +77,11 @@ Every element is box with content; has a background and border.
 Borders are around elements, at edges of element content
 
 **border** property can have multiple configurations in one line or sides can be individually styled
+
 ```
 border: 6mm dotted rgba(280, 220, 30, .6);
 ```
+
 HSL functional notation of color is preferred, similar to RGB
 
 ### Styling HTML Text Elements<sup>[^4]</sup>
@@ -90,16 +90,15 @@ HSL functional notation of color is preferred, similar to RGB
 
 **font-stack** allows you to apply multiple fonts, allowing you to guarantee availability of text if one font fails. seperated by commas
 
-
 1. foreground color applies to text, including any other decorations to it; background color applies color to borders or element backgrounds?
 
-2. I would add color to background of page, to sections, text, headers
+3. I would add color to background of page, to sections, text, headers
 
-2. What should you consider when choosing fonts for an HTML document?
+4. Simplicity, readabilty
 
-3. font-size changes size, font-weight= boldness, font-style= italic
+5. font-size changes size, font-weight= boldness, font-style= italic
 
-4. We can use letter-spacing and word-spacing properties when font is too dense and to improve readability.
+6. We can use letter-spacing and word-spacing properties when font is too dense and to improve readability.
 
 [^1]:Reference [](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
@@ -111,6 +110,6 @@ HSL functional notation of color is preferred, similar to RGB
 
 ## Things I want to know more about
 
-I am still confused about blocks, would like to learn more. 
+I am still confused about blocks, would like to learn more.
 
 📔[Back to Main Page](README.md)
