@@ -6,20 +6,23 @@ This is important for aesthetics and readability of a page.
 
 ## HTML Media <sup>[^1]</sup>
 
-**<img>** element is an *empty element* (no text or closing tag) req. min. one attribute to be useful.
+**<img>** element is an *empty element* (no text or closing tag) req. min. one attribute to be useful. self closer, only one tag
 
-- uses **src** source attribute
+- uses **src** source attribute, lives inside img tag
 - correct path required for source
 - best practice to have images in file/ same server as HTML code.
 
 **<alt>** attribute is a text description for image. helps deliver a usable experience when images cant be seen.
 
+- important for accessability, if not added screen reader will read out the src tag.
 - used when image cant be seen/displayed or computer connection lags, description in alt attribute will show.
 - images not supported, will display alt description
 - help search engine matching
 - leave alt when image is for background
 
-**<figure>** semantic creates containerfor figures
+**<title>** attribute shows when mouse is hovering over it.
+
+**<figure>** semantic creates container for figures, really useful to store images.
 
 - doesn't have to be image
 - can go in several places on page
@@ -27,6 +30,8 @@ This is important for aesthetics and readability of a page.
 - could be images, code snippet, audio, video, table etc
 
 **<figcaption>** links figure to caption
+
+- place it above or below images
 
 ```
 <figure>
@@ -36,13 +41,20 @@ This is important for aesthetics and readability of a page.
     Cat of white cat crying
   </figcaption>
 </figure>
+
 ```
 
 ### Using Images in HTML<sup>[^2]</sup>
 
+[caniuse.com](caniuse.com)to check to see if your code will run on across all web browsers.
+
+When using google image, select creative usage for images free use or else credit creator owner.
+
+[unsplash.com](unsplash.com) free images for common use.
+
 |Type| File Format| MIME type| file extensions| Summary|
 |----|--------|----|----|--------|
-|AVIF|AV1 Image File Format|image/avif|.avif| high perfomance, better compression than png and jpeg|
+|AVIF|AV1 Image File Format|image/avif|.avif| high performance, better compression than png and jpeg|
 |GIF|Graphics Interchange Format|image/gif|.gif| simple images, animations|
 |JPEG|Joint Photographic Expert Group image| image/jpeg| .jpg, .jpeg, .jfif, .pjpeg, .pjp| quality loss w/ compression |
 |PNG|Portable Network Graphics|image/png|.png|PNG is preferred over JPEG for more precise reproduction|
@@ -54,11 +66,51 @@ This is important for aesthetics and readability of a page.
 
 3. Can be useful for placing video or audio
 
-4. A gif is not a static picture, more like a short snippet of a video, like an animation that runs on a loop with no sound. Svg is an image that when zoomed in is smooth isnt made up of pixel(tiny squares).
+4. A gif is not a static picture, more like a short snippet of a video, like an animation that runs on a loop with no sound. Svg is an image that when zoomed in is smooth isn't made up of pixel(tiny squares).
 
-5. Lossless WebP or PNG when compressed dont lose image quality
+5. Lossless WebP or PNG when compressed don't lose image quality
 
 ## CSS
+
+An asterisk is a global selector, everything in here will be applied to all page. Individual properties need to styled to differ from whatever lives here.
+
+Best practice to follow property styling based on how html is layed out? create comments to describe what we are styling. [^5]
+
+Sizing:
+
+**percentage** using percentages "its going to take up X% of the screen
+
+- width: 50% would be half of width of parent it lives in, more responsiveness 
+
+easy centering:
+
+- give margin of auto and a width
+
+```
+img{
+  width: 100%; 
+  // image will take 100% of what it lives in more responsive
+}
+```
+
+
+**inherit** tells that element to inherit to that property from its parent
+
+```
+
+figure{
+  background-color: red;
+  width: 50 % 
+  //will alway take up 50% of whatever it lives in , more responsive when reducing screen size
+}
+figcaption { 
+  background-color: inherit;
+}
+
+// fig caption in html inherits color of figure html element since it lives inside figure.
+
+```
+
 
 ### Color<sup>[^3]</sup>
 
@@ -86,15 +138,30 @@ HSL functional notation of color is preferred, similar to RGB
 
 ### Styling HTML Text Elements<sup>[^4]</sup>
 
+Serif font will have little arms at the end of lines ex: Times New Roman.
+
+
 **font-family** specify font/list of fonts for browser to apply to selected elements
 
-**font-stack** allows you to apply multiple fonts, allowing you to guarantee availability of text if one font fails. seperated by commas
+**font-stack** allows you to apply multiple fonts, allowing you to guarantee availability of text if one font fails. separated by commas
+
+[cssfontstack.com](cssfontsstack.com) for easy search of font family stack
+
+**font-size** default size is 16 px
+
+**em** equals size of parent. 1 em is same size as parent. 2 em would be twice font of parent. not really responsive, but looks to its parent element.
+
+**vw** percent of size of screen, responsive unit. Gives us percentage of size of screen. 
+
+- doing **percentage** with fonts will be percentage of the parent it lives in, still responsive but within parent.
+
+
 
 1. foreground color applies to text, including any other decorations to it; background color applies color to borders or element backgrounds?
 
 3. I would add color to background of page, to sections, text, headers
 
-4. Simplicity, readabilty
+4. Simplicity, readability
 
 5. font-size changes size, font-weight= boldness, font-style= italic
 
@@ -106,7 +173,7 @@ HSL functional notation of color is preferred, similar to RGB
 
 [^3]:Reference [](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
   
-[^4:]Reference[](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+
 
 ## Things I want to know more about
 
