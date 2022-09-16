@@ -33,7 +33,7 @@ This is important for aesthetics and readability of a page.
 
 - place it above or below images
 
-```
+```html
 <figure>
   <img src="images/cat.jpg" alt="picture of cat crying">
   
@@ -80,23 +80,22 @@ Sizing:
 
 **percentage** using percentages "its going to take up X% of the screen
 
-- width: 50% would be half of width of parent it lives in, more responsiveness 
+- width: 50% would be half of width of parent it lives in, more responsiveness
 
 easy centering:
 
 - give margin of auto and a width
 
-```
+```css
 img{
   width: 100%; 
   // image will take 100% of what it lives in more responsive
 }
 ```
 
-
 **inherit** tells that element to inherit to that property from its parent
 
-```
+```css
 
 figure{
   background-color: red;
@@ -110,7 +109,6 @@ figcaption {
 // fig caption in html inherits color of figure html element since it lives inside figure.
 
 ```
-
 
 ### Color<sup>[^3]</sup>
 
@@ -140,7 +138,6 @@ HSL functional notation of color is preferred, similar to RGB
 
 Serif font will have little arms at the end of lines ex: Times New Roman.
 
-
 **font-family** specify font/list of fonts for browser to apply to selected elements
 
 **font-stack** allows you to apply multiple fonts, allowing you to guarantee availability of text if one font fails. separated by commas
@@ -151,30 +148,30 @@ Serif font will have little arms at the end of lines ex: Times New Roman.
 
 **em** equals size of parent. 1 em is same size as parent. 2 em would be twice font of parent. not really responsive, but looks to its parent element.
 
-**vw** percent of size of screen, responsive unit. Gives us percentage of size of screen. 
+**vw** percent of size of screen, responsive unit. Gives us percentage of size of screen.
 
 - doing **percentage** with fonts will be percentage of the parent it lives in, still responsive but within parent.
 
-
-
 1. foreground color applies to text, including any other decorations to it; background color applies color to borders or element backgrounds?
 
-3. I would add color to background of page, to sections, text, headers
+2. I would add color to background of page, to sections, text, headers
 
-4. Simplicity, readability
+3. Simplicity, readability
 
-5. font-size changes size, font-weight= boldness, font-style= italic
+4. font-size changes size, font-weight= boldness, font-style= italic
 
-6. We can use letter-spacing and word-spacing properties when font is too dense and to improve readability.
+5. We can use letter-spacing and word-spacing properties when font is too dense and to improve readability.
 
-[^1]:Reference [](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+[^1]:Reference [Images In HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
-[^2]:Reference [](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
+[^2]:Reference [Images Types](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
 
-[^3]:Reference [](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
+[^3]:Reference [Applying Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
+
+[^4]:Reference [Styling Text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+
+[^5]:Notes taken from Lecture [](https://github.com/arpatterson31)
   
-
-
 ## Things I want to know more about
 
 I am still confused about blocks, would like to learn more.
