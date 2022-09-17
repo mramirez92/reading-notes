@@ -6,7 +6,7 @@ It is important to learn more about css styling to create a more user friendly e
 
 ## Creating Hyperlinks 
 
-links are housed inside **<a>** elements and use **href** attribute.[^1]
+links are housed inside **<a>** elements and use **href** attribute. <sup>[^1]</sup>
 
 - **title** attribute contains additional info about link; description of content paged linked contains
 
