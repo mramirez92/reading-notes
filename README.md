@@ -17,9 +17,9 @@ Attached are my Code Fellow reading notes.
 | [1. Learning Markdown](class1notes.md) | [1. HTML, Javascript](class-01.md) |
 | [2. The Coder's Computer](class2notes.md) | [2. More HTML, CSS and JavaScript](class-02.md)|
 | [3. Revisions and the Cloud](class3notes.md) |[3. Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)|
-| [4. Structure web pages with HTML](class4notes.md) | [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)|
+| [4. Structure web pages with HTML](class4notes.md) |[4. HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)|
 | [5. Design web pages with CSS](class5notes.md) | [5. HTML Media and CSS: Colors and Font Styling](class-05.md)|
-| [6. Dynamic web pages with JavasScript](class6notes.md) |
+| [6. Dynamic web pages with JavasScript](class6notes.md) |[6. Problem Domain, Objects, and the DOM](class-06.md)|
 | [7. Programming with JavaScript](class7notes.md) |
 | [8. Operators and loops](class8notes.md) |
 
