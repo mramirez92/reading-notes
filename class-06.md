@@ -8,10 +8,23 @@ This is important for aesthetics and readability of a page.
 
 Objects are collections of related data and/or functionality.<sup>[^1]</sup>They consist of variables and functions (properties and methods inside objects). Objects are made up of multiple *members*:
 
-- Name and value pairs. Have to be separated by commas.
+- Name and value pairs. Have to be separated by commas. comma separated key/value pairs
 - Object member can be anything: array, function, numbers etc. 
 - Data items are object **properties**
 - Functions are called object **methods** they do something with object properties.
+- 
+
+```JavaScript
+//array
+let myArr = ['monica', 30, true];
+
+//object 
+let person = {
+  name: 'monica',
+  age: 30,
+  texan: true,
+}
+```
 
 ### Object Literal 
 
@@ -164,14 +177,39 @@ frankie.introduceSelf();
 
 Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.[^2]
 
+- its where HTML and CSS come together in the browser; JS reads this whole thing as an object.
+
 A web page is a document that can be either displayed in the browser window or as the HTML source. In both cases, it is the same document but the Document Object Model (DOM) representation allows it to be manipulated. As an object-oriented representation of the web page, it can be modified with a scripting language such as JavaScript.
 
 - Properties, methods, and events available for manipulating and creating web pages are organized into objects.
 - Every HTML document and its contents are parts of the document object model . They can be accessed/manipulated using DOM and  scripting languages. 
 - DOM was designed to not be proprietary to any programming language, allowing it to structural representation of document to be available from single consistent API
-- *< script>* allows us to use API in JS from within.
+- **< script>** allows us to use API in JS from within.
 
-1. DOM is an api that gives us access to HTML structure. 
+
+### DOM MANIPULATION
+
+``` Javascript
+//js needs a window into your HTML or into the dom, letting js access DOM 
+//step 1
+let section= document.getElementById('my-section');
+
+//2. create elements= h2Element = <h2></h2>
+const h2Elements = document.createElement('h2');
+
+//3. give it context if necessary
+// <h2> hey im an h2</h2>
+h2Element.textContent = 'hey! im an h2';
+
+//4. add to dom, adding 
+//parentElement.appendChild(child)
+//adding(append child) h2Element to section; 
+section.appendChild(h2Element);
+
+```
+
+1. DOM is an api that gives us access to HTML structure.
+
 2. Elements that are part of the DOM can be accessed and manipulated with scripting languages like JavaScript. 
 
 ## Things I want to know more about
