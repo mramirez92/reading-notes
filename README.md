@@ -20,8 +20,8 @@ Attached are my Code Fellow reading notes.
 | [4. Structure web pages with HTML](class4notes.md) |[4. HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)|
 | [5. Design web pages with CSS](class5notes.md) | [5. HTML Media and CSS: Colors and Font Styling](class-05.md)|
 | [6. Dynamic web pages with JavasScript](class6notes.md) |[6. Problem Domain, Objects, and the DOM](class-06.md)|
-| [7. Programming with JavaScript](class7notes.md) |
-| [8. Operators and loops](class8notes.md) |
+| [7. Programming with JavaScript](class7notes.md) | [7. Constructors and Prototypes](class-07.md)|
+| [8. Operators and loops](class8notes.md) | [8. CSS Layout](class-08.md)|
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
 
