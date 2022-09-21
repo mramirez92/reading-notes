@@ -1,4 +1,4 @@
-# Class 02 Notes
+# 2. More HTML, CSS and JavaScript
 
 ## "Why is this material important?"
 

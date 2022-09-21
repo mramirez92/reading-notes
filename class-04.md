@@ -1,4 +1,4 @@
-# Class 04 Notes
+# 4. HTML Links, JS Functions, and Intro to CSS Layout
 
 ## "Why is this important?"
 

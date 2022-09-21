@@ -1,4 +1,4 @@
-# Class 03 notes
+# 3. Readings: HTML Lists, Control Flow with JS, and the CSS Box Model 
 
 ## "Why is this material important?"
 

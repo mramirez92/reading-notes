@@ -1,4 +1,4 @@
-# Class 06 Notes
+# 6. Problem Domain, Objects, and the DOM
 
 ## "Why is this important:"
 

@@ -1,4 +1,4 @@
-# Class 05 Notes
+# 5. HTML Media and CSS: Colors and Font Styling
 
 ## "Why is this important"
 

@@ -1,4 +1,4 @@
-# Class Seven Notes 
+# Constructors and Prototypes
 
 ## Control Flow
 

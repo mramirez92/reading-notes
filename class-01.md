@@ -1,4 +1,4 @@
-# Class 01
+# 1. HTML and Javascript
 
 ## JavaScript
 
