@@ -39,7 +39,9 @@ Flex-Container Creation:
 
 ## More Flexbox
 
-*</section>* element becomes a flex container and its children to become flex items
+
+*</section>* element becomes a flex container and its children to become flex items [^2]
+
 ```css
 
 /*flex is shorthand*/
