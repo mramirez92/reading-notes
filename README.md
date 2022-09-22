@@ -33,6 +33,7 @@ Attached are my Code Fellow reading notes.
 |[6. Problem Domain, Objects, and the DOM](class-06.md)|
 |[7. Constructors and Prototypes](class-07.md)|
 |[8. CSS Layout](class-08.md)|
+|[9. Forms and JS Events](class-09.md)|
 
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
