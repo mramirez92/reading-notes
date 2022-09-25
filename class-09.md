@@ -1,14 +1,14 @@
 # 9. Forms and JS Events
 
-## Why this is important:
+## Why this is important
 
-HTML allow us capture user data that we might find useful. Events allows us to make our website more interactive and dynamic. 
+HTML allow us capture user data that we might find useful. Events allows us to make our website more interactive and dynamic.
 
 ## HTML Forms
 
 Web forms are one of the main points of interaction between a user and a web site or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage.<sup>[^1]</sup>
 
-HTML is made up of more than one form control (widgets), with additional elements to help with structure of the form. 
+HTML is made up of more than one form control (widgets), with additional elements to help with structure of the form.
 
 - controls can be single or multi-line text fields
 - ```<input>```
@@ -65,13 +65,14 @@ Form data entry:
 
 2. Keep things simple.
 
-3. 
-  - ```<form>``` defines element as a form. container like section or footer.
-  - ```<action>``` url where form data collected should be sent
-  - ```<label>``` What the data entered is for; "name", "age"
-  - ```<input>``` User input, single-line
+3.
 
-  - ```<textarea>``` Input field for message, multi-line
+- ```<form>``` defines element as a form. container like section or footer.
+- ```<action>``` url where form data collected should be sent
+- ```<label>``` What the data entered is for; "name", "age"
+- ```<input>``` User input, single-line
+
+- ```<textarea>``` Input field for message, multi-line
 
 ## JS Events
 
@@ -86,7 +87,7 @@ Event Handlers: block of code that runs when even fires
 
 Registering event handler: defining block of code defined to run in response to event.
 
-``` addEventListener()``` method is applied to objects that can fire events.
+```addEventListener()``` method is applied to objects that can fire events.
   
 - takes in at least 2 parameters:
   - name of event and a function
@@ -125,8 +126,7 @@ Bubbling: event is in an element inside another element, and both elements have 
 
 ## Things I want to know more about
 
-I want to know more about event listeners and more about all of the things they can do aside from a click. 
-
+I want to know more about event listeners and more about all of the things they can do aside from a click.
 
 [^1]: Reference [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
 
