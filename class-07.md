@@ -6,12 +6,11 @@
 
 Domain modeling is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain.<sup>[^1]</sup>
 
-
 1. Domain modeling allow us  to apply same properties across many objects efficiently.
 
 ## HTML Tables
 
-1. Using tables as HTML layout reduces accessibility, tables produce tag soup, and they are not automatically responsive. 
+1. Using tables as HTML layout reduces accessibility, tables produce tag soup, and they are not automatically responsive.
 <sup>[^2]</sup>
 
 2. td: table cell, table data, tr: table row, th: table header
@@ -49,7 +48,7 @@ why:
 - keeps our code dry
 - prevents bugs
 
-1. Constructors allow us to store properties that many objects can access.<sup>[3]</sup>
+1. Constructors allow us to store properties that many objects can access.<sup>[^3]</sup>
 
 2. this allows us to use same method for every object we create.
 
@@ -59,10 +58,9 @@ why:
 
 Prototypes allows us to access data stores in Constuctors and apply them to our objects.<sup>[^4]</sup>
 
-### Things I want to know more about:
+### Things I want to know more about
 
 I want to understand more about DOM.
-
 
 [^1]: Reference [domain modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
@@ -72,6 +70,4 @@ I want to understand more about DOM.
 
 [^4]: Reference [prototypes](https://ui.dev/beginners-guide-to-javascript-prototype)
 
-
 📔[Back to Main Page](README.md)
-
