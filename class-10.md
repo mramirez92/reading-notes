@@ -4,7 +4,7 @@
 
 It's important to know this so we can problem solve our code.
 
-## Troubleshootig JavaScript
+## Troubleshooting JavaScript
 
 Syntax errors: spelling errors, missing semicolon, open curly brackets/parenthesis, missing colon. <sup>[^1]</sup>
 
