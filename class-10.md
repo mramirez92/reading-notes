@@ -4,7 +4,7 @@
 
 It's important to know this so we can problem solve our code.
 
-## Troubleshootig JavaScript
+## Troubleshooting JavaScript
 
 Syntax errors: spelling errors, missing semicolon, open curly brackets/parenthesis, missing colon. <sup>[^1]</sup>
 
@@ -44,5 +44,5 @@ I want to learn how to use the debugging tool on Chrome more efficiently for JS.
 [^1]: Reference [Troubleshooting JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 
 [^2]: Reference [JS Debugger](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools#the_javascript_debugger)
-
+ 
 📔[Back to Main Page](README.md)
