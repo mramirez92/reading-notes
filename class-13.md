@@ -1,5 +1,10 @@
 # Local Storage and How To Use It On Websites
 
+## Why this is important:
+
+Adding local storage to our web apps will allow a smoother user experience. Users will not have to readd previously set settings if the settings are stored locally. 
+
+
 ## Data Persistence
 
 ## Local storage
@@ -44,7 +49,11 @@ const obj = JSON.parse('{"name":"John", "age":30, "city":"New York"}');
 
 1. To store user settings and non-sensitive  information next user accesses web application
 2. sensitive info should not be store in local storage
-3. local storage stores data as strings, use JSON.parse to convert it. 
+3. local storage stores data as strings, use JSON.parse to convert it.
+
+## Things I want to know more about:
+
+I want to learn more about how exactly JSON.parse() works. 
 
 [^1]: Reference [Local Storage](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
 [^2]: Reference [w3schools](https://www.w3schools.com/js/js_json_parse.asp)
