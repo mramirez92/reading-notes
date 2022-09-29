@@ -39,6 +39,7 @@ Attached are my Code Fellow reading notes.
 |[12.]()|
 |[13. Local Storage](class-13.md)|
 |[14. Transform, Transitions and Animations](class-14.md)|
+|[14b. Psychological Safety](class-14b.md)|
 
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
