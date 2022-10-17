@@ -12,6 +12,10 @@ Attached are my Code Fellow reading notes.
    
 ## Table of contents
 
+<details>
+<summary>102 Notes</summary>
+<br>
+
 | Class 102 notes  |
 | -------------- | 
 | [1. Learning Markdown](class1notes.md) |
@@ -22,8 +26,14 @@ Attached are my Code Fellow reading notes.
 | [6. Dynamic web pages with JavasScript](class6notes.md) |
 | [7. Programming with JavaScript](class7notes.md) |
 | [8. Operators and loops](class8notes.md) |
+</details>
 
-| Class 201 notes|
+
+<details>
+<summary>201 Notes</summary>
+<br>
+
+| Class 201 notes |
 | -------------- |
 |[1. HTML, Javascript](class-01.md) |
 |[2. More HTML, CSS and JavaScript](class-02.md)|
@@ -40,7 +50,17 @@ Attached are my Code Fellow reading notes.
 |[13. Local Storage](class-13.md)|
 |[14. Transform, Transitions and Animations](class-14.md)|
 |[14b. Psychological Safety](class-14b.md)|
+</details>
 
+<details>
+<summary>301 Notes</summary>
+<br>
+
+| Class 301 Notes|
+| -------------- |
+|[1. Intro to React and Components](/301/class01.md)|
+
+</details>
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
 
