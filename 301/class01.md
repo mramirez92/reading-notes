@@ -1,5 +1,9 @@
 # Introduction to React and Components
 
+## Why is this important:
+
+Building web app in the most efficient way is important and we can do that with Components.
+
 ## Component-based Architecture
 
 Components encapsulate functionality and behaviors of an element making them *reusable* and self-deployable.
@@ -63,6 +67,10 @@ Props are passed in a *unidirectional flow* (one way parent to child)
     - They are used to create dynamic components
 3. What is the flow of props?
     - one way direction, data passes only from parent to child components
+
+## Things I want to know more about
+
+I want to know more about components in general. I want to get familiar with using them.
 
 
 [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
