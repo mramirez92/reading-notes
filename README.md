@@ -49,6 +49,7 @@ Attached are my Code Fellow reading notes.
 | -------------- |
 |[1. Intro to React and Components](/301/class01.md)|
 |[2. React](/301/class02.md)|
+|[3.Passing Functions as Props](/301/class03.md)|
 
 
 
