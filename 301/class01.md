@@ -77,3 +77,5 @@ I want to know more about components in general. I want to get familiar with usi
 [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
 [Component-Level Design: Definition & Types](https://study.com/academy/lesson/component-level-design-definition-types.html#:~:text=In%20the%20object%2Doriented%20view,do%20with%20the%20real%20world.)
+
+📔[Back to Main Page](../README.md)

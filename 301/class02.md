@@ -56,3 +56,5 @@ I want to know more about React in general.
 
 [^1]Reference [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 [React Props vs States](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+
+📔[Back to Main Page](../README.md)
