@@ -1,9 +1,9 @@
 # Transform, Transitions and Animations
 
-## Why is this important:
+## Why is this important
 
 User experience is important and so is user
-engagement. 
+engagement.
 
 ## Transform
 
@@ -21,15 +21,15 @@ div {
 }
 ```
 
-1. It allows them to transform them on any axis. 
+1. It allows them to transform them on any axis.
 
-2. You can use it to render a 3d object, maybe a globe to show positioning of store locations around the globe. 
+2. You can use it to render a 3d object, maybe a globe to show positioning of store locations around the globe.
 
 ## CSS Transitions & Animations
 
 With CSS3 transitions you have the potential to alter the appearance and behavior of an element whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted.<sup>[^2]</sup>
 
-Animations: appearance and behavior element to be altered in multiple keyframes
+Animations: appearance and behavior element to be altered in multiple keyframe
 
 - set multiple points of transition upon different keyframe
 
@@ -64,14 +64,14 @@ use `@keyframes *animation name*` to declare animation elements.
 }
 ```
 
-1. Transitions: provide change from one state to another. 
+1. Transitions: provide change from one state to another.
 
 2. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
 
 ## More Transitions
 
 Effects are hardware accelerated and can be used immediately.
-`trasition`
+`transition`
 
 - fade in: set initial state, then set change. Ex: opacity changes
 - grow and shrink by changing scale of element
@@ -81,7 +81,7 @@ Effects are hardware accelerated and can be used immediately.
 transform: scale(1.3);
 ```
 
-- rotate by setting `transform: rotatez(#deg)`
+- rotate by setting `transform: rotate(#deg)`
 - square to circle and vice versa: elementhover with a border radius change
 - inset border: no background color, heavy border
 ```CSS box-shadow: inset 0 0 0 25px #53a7ea;```<sup>[^3]</sup>
@@ -90,10 +90,9 @@ transform: scale(1.3);
 
 2. Transitions can increase user engagement. That they could spend more time on my website/app.
 
-## Things I want to know more about:
+## Things I want to know more about
 
-I want to learn how exaclty to implement animations. 
-
+I want to learn how exactly to implement animations.
 
 [^1]: Reference [Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
 

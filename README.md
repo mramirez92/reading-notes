@@ -51,6 +51,7 @@ Attached are my Code Fellow reading notes.
 |[2. React](/301/class02.md)|
 |[3.Passing Functions as Props](/301/class03.md)|
 |[4.Forms and Ternary](/301/class04.md)|
+|[5.Putting It All Together](/301/class05.md)|
 
 
 
