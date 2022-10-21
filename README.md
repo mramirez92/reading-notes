@@ -27,21 +27,21 @@ Attached are my Code Fellow reading notes.
 
 | Class 201 notes |
 | -------------- |
-|[1. HTML, Javascript](class-01.md) |
-|[2. More HTML, CSS and JavaScript](class-02.md)|
-|[3. Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)|
-|[4. HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)|
-|[5. HTML Media and CSS: Colors and Font Styling](class-05.md)|
-|[6. Problem Domain, Objects, and the DOM](class-06.md)|
-|[7. Constructors and Prototypes](class-07.md)|
-|[8. CSS Layout](class-08.md)|
-|[9. Forms and JS Events](class-09.md)|
-|[10. Debugging](class-10.md)|
-|[11. Audio, Video, Images](class-11.md)|
-|[12. Chart.js](class-12.md)|
-|[13. Local Storage](class-13.md)|
-|[14. Transform, Transitions and Animations](class-14.md)|
-|[14b. Psychological Safety](class-14b.md)|
+|[1. HTML, Javascript](/201/class-01.md) |
+|[2. More HTML, CSS and JavaScript](/201/class-02.md)|
+|[3. Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](/201/class-03.md)|
+|[4. HTML Links, JS Functions, and Intro to CSS Layout](/201/class-04.md)|
+|[5. HTML Media and CSS: Colors and Font Styling](/201/class-05.md)|
+|[6. Problem Domain, Objects, and the DOM](/201/class-06.md)|
+|[7. Constructors and Prototypes](/201/class-07.md)|
+|[8. CSS Layout](/201/class-08.md)|
+|[9. Forms and JS Events](/201/class-09.md)|
+|[10. Debugging](/201/class-10.md)|
+|[11. Audio, Video, Images](/201/class-11.md)|
+|[12. Chart.js](/201/class-12.md)|
+|[13. Local Storage](/201/class-13.md)|
+|[14. Transform, Transitions and Animations](/201/class-14.md)|
+|[14b. Psychological Safety](/201/class-14b.md)|
 
 <br>
 
@@ -50,6 +50,7 @@ Attached are my Code Fellow reading notes.
 |[1. Intro to React and Components](/301/class01.md)|
 |[2. React](/301/class02.md)|
 |[3.Passing Functions as Props](/301/class03.md)|
+|[4.Forms and Ternary](/301/class04.md)|
 
 
 
