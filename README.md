@@ -52,7 +52,8 @@ Attached are my Code Fellow reading notes.
 |[3.Passing Functions as Props](/301/class03.md)|
 |[4.Forms and Ternary](/301/class04.md)|
 |[5.Putting It All Together](/301/class05.md)|
-|[6. Intro to Node.js](https://www.sitepoint.com/an-introduction-to-node-js)|
+|[6. Intro to Node.js](/301/class06.md)|
+|[7. REST](/301/class07.md)|
 
 
 
