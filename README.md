@@ -44,6 +44,7 @@ Attached are my Code Fellow reading notes.
 |[14b. Psychological Safety](/201/class-14b.md)|
 
 <br>
+![](/)
 
 | Class 301 Notes|
 | -------------- |
@@ -54,7 +55,9 @@ Attached are my Code Fellow reading notes.
 |[5.Putting It All Together](/301/class05.md)|
 |[6. Intro to Node.js](/301/class06.md)|
 |[7. REST](/301/class07.md)|
-
+|[8. REST](/301/class08.md)|
+|[9. Functional Programming](/301/class09.md)|
+|[10. In Memory Storage](/301/class10.md)|
 
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
