@@ -1,4 +1,4 @@
-# 201 Reading Notes
+# Reading Notes
 
 ### <sup> Code Fellows Journal</sup>
 
