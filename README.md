@@ -1,4 +1,5 @@
 # 201 Reading Notes
+
 ### <sup> Code Fellows Journal</sup>
 
 ## Hello, World
@@ -9,10 +10,10 @@ Yellow, my name is Monica Ramirez. A couple of my farvorite things are working o
 
 Attached are my Code Fellow reading notes.
 &nbsp;
-   
-## Table of contents
 
-| Class 102 notes  |
+## Code 102 - Intro to Software Development
+
+|102 Notes|
 | -------------- | 
 | [1. Learning Markdown](class1notes.md) |
 | [2. The Coder's Computer](class2notes.md) |
@@ -25,7 +26,9 @@ Attached are my Code Fellow reading notes.
 
 <br>
 
-| Class 201 notes |
+## Code 201 - Foundations of Software Development
+
+|201 Notes |
 | -------------- |
 |[1. HTML, Javascript](/201/class-01.md) |
 |[2. More HTML, CSS and JavaScript](/201/class-02.md)|
@@ -44,9 +47,10 @@ Attached are my Code Fellow reading notes.
 |[14b. Psychological Safety](/201/class-14b.md)|
 
 <br>
-![](/)
 
-| Class 301 Notes|
+## Code 301 Intermediate Software Development
+
+|301 notes|
 | -------------- |
 |[1. Intro to React and Components](/301/class01.md)|
 |[2. React](/301/class02.md)|
@@ -59,9 +63,9 @@ Attached are my Code Fellow reading notes.
 |[9. Functional Programming](/301/class09.md)|
 |[10. In Memory Storage](/301/class10.md)|
 
+<br>
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
-
 
 [Github link](https://github.com/mramirez92)
   :octocat:
