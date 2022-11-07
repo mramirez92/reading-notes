@@ -63,6 +63,10 @@ Attached are my Code Fellow reading notes.
 |[9. Functional Programming](/301/class09.md)|
 |[10. In Memory Storage](/301/class10.md)|
 |[11. Mongo DB and Mongoose](/301/class11.md)|
+|[12. CRUD](/301/class12.md)|
+|[13. More Crud](/301/class13.md)|
+|[14. Diversity & Inclusion in the Tech Industry](/301/class14.md)|
+|[15. Auth0](/301/class15.md)|
 
 <br>
 
