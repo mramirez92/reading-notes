@@ -1,6 +1,6 @@
 # 9. Functional Programming
 
-## Why is this important:
+## Why is this important
 
 Modules allow us to componentize our backend code.
 
@@ -8,7 +8,7 @@ Modules allow us to componentize our backend code.
 
 What is functional programming?
 
--  the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects
+- the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects
 
 What is a pure function and how do we know if something is a pure function?
 
@@ -16,11 +16,11 @@ What is a pure function and how do we know if something is a pure function?
 
 What are the benefits of a pure function?
 
-- precise and simple: take input give output. 
+- precise and simple: take input give output.
 
 What is immutability?
 
-- values whose content cant be changed without creating new value 
+- values whose content cant be changed without creating new value
 
 What is Referential transparency?
 
@@ -40,13 +40,13 @@ What does the word ‘require’ do?
 
 How do we bring another module into the file the we are working in?
 
--  `require(moduleName)`
+- `require(moduleName)`
 
 What do we have to do to make a module available?
 
--  `module.exports = moduleName`
+- `module.exports = moduleName`
 
-### Things I want to know:
+### Things I want to know
 
 More modules!!! having  functions on one page and having the ability to call them anywhere is amazing.
 
