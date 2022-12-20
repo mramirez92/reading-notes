@@ -6,7 +6,7 @@
 
 &nbsp;
 
-Yellow, my name is Monica Ramirez. A couple of my farvorite things are working out :weight_lifting_woman: and **_sleeping_**.  I really enjoy working with python, but I am here to learn as much as I can in a structured enviroment.
+Yellow, my name is Monica Ramirez. A couple of my favorite things are working out :weight_lifting_woman: and **_sleeping_**.  I really enjoy working with python, but I am here to learn as much as I can in a structured environment.
 
 Attached are my Code Fellow reading notes.
 &nbsp;
@@ -28,23 +28,23 @@ Attached are my Code Fellow reading notes.
 
 ## Code 201 - Foundations of Software Development
 
-|201 Notes |
-| -------------- |
-|[1. HTML, Javascript](/201/class-01.md) |
-|[2. More HTML, CSS and JavaScript](/201/class-02.md)|
-|[3. Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](/201/class-03.md)|
-|[4. HTML Links, JS Functions, and Intro to CSS Layout](/201/class-04.md)|
-|[5. HTML Media and CSS: Colors and Font Styling](/201/class-05.md)|
-|[6. Problem Domain, Objects, and the DOM](/201/class-06.md)|
-|[7. Constructors and Prototypes](/201/class-07.md)|
-|[8. CSS Layout](/201/class-08.md)|
-|[9. Forms and JS Events](/201/class-09.md)|
-|[10. Debugging](/201/class-10.md)|
-|[11. Audio, Video, Images](/201/class-11.md)|
-|[12. Chart.js](/201/class-12.md)|
-|[13. Local Storage](/201/class-13.md)|
-|[14. Transform, Transitions and Animations](/201/class-14.md)|
-|[14b. Psychological Safety](/201/class-14b.md)|
+| 201 Notes                                                                                |
+|------------------------------------------------------------------------------------------|
+| [1. HTML, Javascript](/201/class-01.md)                                                  |
+| [2. More HTML, CSS and JavaScript](/201/class-02.md)                                     |
+| [3. Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](/201/class-03.md) |
+| [4. HTML Links, JS Functions, and Intro to CSS Layout](/201/class-04.md)                 |
+| [5. HTML Media and CSS: Colors and Font Styling](/201/class-05.md)                       |
+| [6. Problem Domain, Objects, and the DOM](/201/class-06.md)                              |
+| [7. Constructors and Prototypes](/201/class-07.md)                                       |
+| [8. CSS Layout](/201/class-08.md)                                                        |
+| [9. Forms and JS Events](/201/class-09.md)                                               |
+| [10. Debugging](/201/class-10.md)                                                        |
+| [11. Audio, Video, Images](/201/class-11.md)                                             |
+| [12. Chart.js](/201/class-12.md)                                                         |
+| [13. Local Storage](/201/class-13.md)                                                    |
+| [14. Transform, Transitions and Animations](/201/class-14.md)                            |
+| [14b. Psychological Safety](/201/class-14b.md)                                           |
 
 <br>
 
@@ -80,9 +80,10 @@ Attached are my Code Fellow reading notes.
 |[Typing](/401/typing.md)|
 |[Prep your Mindset](/401/emoint.md)|
 
-||
-|-------|
-|[1. Class 01](/401/class1.md)|
+| Class Notes                   |
+|-------------------------------|
+| [1. Class 01](/401/class1.md) |
+| [2.  Testing and Modules](/401/class2.md)         |                             
 
 
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
