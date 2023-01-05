@@ -80,12 +80,22 @@ Attached are my Code Fellow reading notes.
 |[Typing](/401/typing.md)|
 |[Prep your Mindset](/401/emoint.md)|
 
-| Class Notes                   |
-|-------------------------------|
-| [1. Class 01](/401/class1.md) |
-| [2.  Testing and Modules](/401/class2.md)         |                             
-
-
+| Class Notes                                             |
+|---------------------------------------------------------|
+| [1. Class 01](/401/class1.md)                           |
+| [2.  Testing and Modules](/401/class2.md)               |                             
+| [3. Classes and Object, More recursion](/401/class3.md) |
+| [4. FileIO & Exceptions](/401/class3.md)                |
+| [5. Linked List and Big O](/401/class4.md)              |
+||
+||
+||
+||
+||
+| [11. Data Analysis](/401/class11.md)                    |
+| [12. Pandas](/401/class12.md)                           |
+| [13. Liniear Regression](/401/class13.md)               |
+| [14. Matplotlib](/401/class14.md)                       |                                                      |
 ![cat typing](https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952cf0a8d140fce78848474bf1625a4595ef3674684&rid=giphy.gif&ct=s)
 
 [Github link](https://github.com/mramirez92)
